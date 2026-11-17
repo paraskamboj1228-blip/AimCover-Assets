@@ -5,7 +5,7 @@
     "min_exe_version": "1.0.1",
     "kill_switch": false,
     "exe_url": "https://raw.githubusercontent.com/paraskamboj1228-blip/AimCover-Assets/main/brands/ayush999/Ayush999.exe",
-    "exe_hash": "e65682ec75c7663eb1a909575f6f398100c7c6e040f524ece722892fa6f9689a",
+    "exe_hash": "57c8290062dfb0d4c170ace9d3b0e3f10458e37c19a1b743317adc2c35047931",
     "files": {
         "esp": {
             "url": "https://raw.githubusercontent.com/paraskamboj1228-blip/AimCover-Assets/main/esp.enc",
@@ -13,8 +13,8 @@
         },
         "backend": {
             "url": "https://raw.githubusercontent.com/paraskamboj1228-blip/AimCover-Assets/main/backend.enc",
-            "hash": "8d6316695acfaaf92df21e84dc5045aa94ce2de13ac28b89639b6d57e4d9cb01"
+            "hash": "e805d9d8110b04be324079856d16842f4e5cf0b817b0b8415330a18e5b504f41"
         }
     },
-    "updated_at": "2026-11-17 12:39:42 UTC"
+    "updated_at": "2026-11-17 13:00:15 UTC"
 }
