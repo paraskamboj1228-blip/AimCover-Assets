@@ -5,7 +5,7 @@
     "min_exe_version": "1.0.1",
     "kill_switch": false,
     "exe_url": "https://raw.githubusercontent.com/paraskamboj1228-blip/AimCover-Assets/main/brands/silentx/SilentXNight.exe",
-    "exe_hash": "639361c86d7c9395000ee6ed17638024175d0c7e9134911943738c73c1972363",
+    "exe_hash": "3f6330977ea4e10d8c32c7052cd403554ee6eb038c81c586816b6a5af64e645e",
     "files": {
         "esp": {
             "url": "https://raw.githubusercontent.com/paraskamboj1228-blip/AimCover-Assets/main/esp.enc",
@@ -16,5 +16,5 @@
             "hash": "b18ed3bc6c4be70e22127f58199a53af6fb5de73dfc3a649b028b80aeb79f528"
         }
     },
-    "updated_at": "2026-11-17 06:41:38 UTC"
+    "updated_at": "2026-11-17 06:45:44 UTC"
 }
