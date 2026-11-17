@@ -5,7 +5,7 @@
     "min_exe_version": "1.0.0",
     "kill_switch": false,
     "exe_url": "https://raw.githubusercontent.com/paraskamboj1228-blip/AimCover-Assets/main/AimCover.exe",
-    "exe_hash": "799292b825de2a154fd306ad92cdcf0649277b1e826288a44a3da4236dd7d823",
+    "exe_hash": "c382aa7674ec0cfbea475910c3d940aa7eebfea487bd9ca626813b1b157f1e71",
     "files": {
         "esp": {
             "url": "https://raw.githubusercontent.com/paraskamboj1228-blip/AimCover-Assets/main/esp.enc",
@@ -13,8 +13,8 @@
         },
         "backend": {
             "url": "https://raw.githubusercontent.com/paraskamboj1228-blip/AimCover-Assets/main/backend.enc",
-            "hash": "eca81724748d585663a7411f1173ea2fc470fddaa3c3dfaf68410c2bf71cb7c2"
+            "hash": "fb96f8a5a1b30fcd212f942309fe9961579f81d157cbe929098606589d0d1bb2"
         }
     },
-    "updated_at": "2026-11-17 14:07:58 UTC"
+    "updated_at": "2026-11-17 14:20:34 UTC"
 }
