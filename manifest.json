@@ -1,11 +1,11 @@
 {
     "brand": "UNK AIM COVER",
-    "version": "1.0.1",
-    "exe_version": "1.0.1",
-    "min_exe_version": "1.0.1",
+    "version": "1.0.0",
+    "exe_version": "1.0.0",
+    "min_exe_version": "1.0.0",
     "kill_switch": false,
     "exe_url": "https://raw.githubusercontent.com/paraskamboj1228-blip/AimCover-Assets/main/AimCover.exe",
-    "exe_hash": "6eacec89f63769074c5bea543743cffc228e3da4540d3e230faa745078897856",
+    "exe_hash": "f77f186bec6b63da8c462bd2d57202b749f16c11d7341a8997b5eb35496607c8",
     "files": {
         "esp": {
             "url": "https://raw.githubusercontent.com/paraskamboj1228-blip/AimCover-Assets/main/esp.enc",
@@ -16,5 +16,5 @@
             "hash": "61f0dc0f90bec0e850e6a3821033bbef05bd54a7fd67415c8d4651cd898f89b2"
         }
     },
-    "updated_at": "2026-11-18 12:30:43 UTC"
+    "updated_at": "2026-11-18 12:43:02 UTC"
 }
