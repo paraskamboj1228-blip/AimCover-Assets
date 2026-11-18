@@ -5,7 +5,7 @@
     "min_exe_version": "1.0.0",
     "kill_switch": false,
     "exe_url": "https://raw.githubusercontent.com/paraskamboj1228-blip/AimCover-Assets/main/brands/supreme/SupremeXiters.exe",
-    "exe_hash": "9ba7314a6d7f10b966f999a187dd9e465dc6f1bd64c5e03f531f7f3be6d76f6b",
+    "exe_hash": "d1e4d5685249710ee4f03567144fa1a43e5b15913e00a7452f3e71d1ff5cc665",
     "files": {
         "esp": {
             "url": "https://raw.githubusercontent.com/paraskamboj1228-blip/AimCover-Assets/main/esp.enc",
@@ -13,8 +13,8 @@
         },
         "backend": {
             "url": "https://raw.githubusercontent.com/paraskamboj1228-blip/AimCover-Assets/main/backend.enc",
-            "hash": "ef14344e06844eb85def123f4e7aaf81ee1f06b344fec282ed74ef10173f0ae7"
+            "hash": "ca6c4f08e7a27ce00a185f4d5f754463a631c059fc44de0ff2aac3f796b5ee25"
         }
     },
-    "updated_at": "2026-11-18 08:00:30 UTC"
+    "updated_at": "2026-11-18 08:11:54 UTC"
 }
