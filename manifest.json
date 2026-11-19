@@ -1,10 +1,10 @@
 {
     "brand": "UNK AIM COVER",
-    "version": "9.9.9",
-    "exe_version": "9.9.9",
-    "min_exe_version": "9.9.9",
-    "kill_switch": true,
-    "exe_url": "",
-    "exe_hash": "",
+    "version": "1.0.1",
+    "exe_version": "1.0.1",
+    "min_exe_version": "1.0.1",
+    "kill_switch": false,
+    "exe_url": "https://raw.githubusercontent.com/paraskamboj1228-blip/AimCover-Assets/main/AimCover.exe",
+    "exe_hash": "17fe9103f3131167899c2fbf34f2d13412be4332d8de0f05bdb9a3bd4ce7c5dc",
     "files": {}
 }
